@@ -1,0 +1,46 @@
+{
+    "onset": {
+        "LongName": "Onset",
+        "Description": "Onset time for each trial during a given training run."
+    },
+    "duration": {
+        "LongName": "Duration",
+        "Description": "Length of time stimulus appears on the screen."
+    },
+    "run_num": {
+        "LongName": "Run Number",
+        "Description": "The training block or run number (there are 4 runs of training)"
+    },
+    "is_pre": {
+        "LongName": "Is Pre Training",
+        "Description": "If the scan was conducted before training (1 = yes, 0 = no)."
+    },
+    "trial_num": {
+        "LongName": "Trial Number",
+        "Description": "The trial number."
+    },
+    "trial_weight": {
+        "LongName": "Trial Weight",
+        "Description": "Default trial weight for modeling."
+    },
+    "stim_id": {
+        "LongName": "Stimulus ID",
+        "Description": "Unique ID number to denote which face-blend is being viewed (1-9)."
+    },
+    "relevant_blend": {
+        "LongName": "Relevant Blend",
+        "Description": "The category-relevant parent face included in the blend."
+    },
+    "irrelevant_blend": {
+        "LongName": "Irrelevant Blend",
+        "Description": "The category-irrelevant parent face included in the blend."
+    },
+    "relevant_category": {
+        "LongName": "Relevant Category",
+        "Description": "The category-relevant category (1 = Miller, 2 = Wilson, 3 = Davis)"
+    },
+    "irrelevant_category": {
+        "LongName": "Relevant Category",
+        "Description": "The category-irrelevant category (1 = Miller, 2 = Wilson, 3 = Davis)"
+    }
+}

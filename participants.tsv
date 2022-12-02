@@ -1,0 +1,63 @@
+participant_id	age	gender	inclusion	comment
+sub-1	24	2	1	n/a
+sub-2	21	2	1	n/a
+sub-3	19	2	1	n/a
+sub-7	28	1	1	n/a
+sub-8	18	2	1	n/a
+sub-11	18	2	1	n/a
+sub-12	20	2	1	n/a
+sub-13	19	1	1	n/a
+sub-14	20	3	1	n/a
+sub-15	23	2	1	n/a
+sub-16	23	1	1	n/a
+sub-17	20	2	1	n/a
+sub-18	19	2	1	n/a
+sub-19	19	2	1	n/a
+sub-20	20	2	1	n/a
+sub-21	22	2	0	not enough rest data following scrubbing procedure
+sub-22	19	2	1	n/a
+sub-23	18	2	1	n/a
+sub-24	18	2	1	n/a
+sub-25	18	2	0	fell asleep during rest
+sub-26	20	2	1	n/a
+sub-28	20	2	1	n/a
+sub-29	19	1	1	n/a
+sub-30	20	2	1	n/a
+sub-31	18	2	1	n/a
+sub-32	19	2	1	n/a
+sub-33	18	2	1	n/a
+sub-34	19	2	1	program error during expo_run-4 so no events data
+sub-35	18	2	1	n/a
+sub-36	18	2	1	n/a
+sub-37	18	1	1	n/a
+sub-38	19	1	1	n/a
+sub-39	20	2	1	n/a
+sub-41	18	1	1	n/a
+sub-42	19	1	1	n/a
+sub-43	20	2	1	n/a
+sub-44	18	2	1	n/a
+sub-45	19	2	1	n/a
+sub-46	22	1	1	n/a
+sub-47	23	1	1	n/a
+sub-48	19	2	1	n/a
+sub-49	19	1	0	excluded for non-compliance
+sub-50	19	2	1	n/a
+sub-51	19	1	1	n/a
+sub-52	19	1	1	n/a
+sub-54	21	1	1	n/a
+sub-55	21	1	1	n/a
+sub-56	18	1	1	excluded expo_run-3 and expo_run-4 for non-compliance
+sub-57	18	2	1	n/a
+sub-58	19	1	1	n/a
+sub-60	27	1	0	fell asleep during rest, expo_run-1, expo_run-2
+sub-61	18	1	0	fell asleep throughout entire scan
+sub-62	20	2	1	n/a
+sub-63	18	2	1	excluded expo_run-3 and expo_run-4 for sleeping
+sub-64	18	2	1	n/a
+sub-65	19	2	1	n/a
+sub-66	20	1	1	n/a
+sub-67	19	2	1	n/a
+sub-68	27	1	1	n/a
+sub-69	18	2	1	n/a
+sub-70	20	1	1	n/a
+sub-71	19	1	0	fell asleep throughout entire scan
