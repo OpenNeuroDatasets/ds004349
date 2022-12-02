@@ -1,7 +1,0 @@
-Title: Evaluating methods for measuring background connectivity in slow-event related fMRI designs
-
-fMRI task where participants passively viewed blended face stimuli (nine faces total). A resting-state scan was complete prior to the passive viewing task.
-
-Task order: rest, expo_run-1, expo_run-2, expo_run-3, expo_run-4
-
-Information related to the task for each trial (onsets, duration of stimulus on the screen, category-relevant and category-irrelevant faces that constitute each blend) are included in a _events.tsv file for each subject and each run of the training task. 
